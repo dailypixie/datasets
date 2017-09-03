@@ -1,0 +1,32 @@
+{
+  "name": "datasets",
+  "version": "1.0.0",
+  "description": "datasets and processing with js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailypixie/datasets.git"
+  },
+  "keywords": [
+    "datasets",
+    "data-mining",
+    "machine-learning"
+  ],
+  "author": "Cristi Minica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dailypixie/datasets/issues"
+  },
+  "homepage": "https://github.com/dailypixie/datasets#readme",
+  "devDependencies": {
+    "fs-extra": "^4.0.1",
+    "gulp": "^3.9.1",
+    "gulp-csv-to-json": "^0.1.1",
+    "gulp-csv2json": "^0.2.5",
+    "gulp-util": "^3.0.8",
+    "yargs": "^8.0.2"
+  }
+}
